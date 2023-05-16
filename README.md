@@ -1,6 +1,6 @@
 # HTML/CSS Project Repository
 
-Welcome to my HTML/CSS project repository! This repository showcases my web development projects built using HTML and CSS, including a tribute page and a portfolio.
+Welcome to my HTML/CSS project repository! This repository showcases my web development projects built using HTML and CSS, including a tribute page, a portfolio and others.
 
 ## Projects
 
