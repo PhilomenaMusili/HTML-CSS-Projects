@@ -6,7 +6,7 @@ This repository contains an HTML file and a CSS file that together create a nutr
 
 ![Preview](nutritionfacts.png)
 
-#Usage
+# Usage
 
 To use the nutrition label, follow these steps:
 
