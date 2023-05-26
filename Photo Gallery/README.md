@@ -4,7 +4,7 @@ This is a simple photo gallery created using CSS Flexbox. It showcases a collect
 
 ## Preview
 
-![Preview](photoGallery.png)
+![Preview](catphotos.png)
 
 ## Features
 
