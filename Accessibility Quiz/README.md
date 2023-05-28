@@ -2,6 +2,9 @@
 
 This project is an accessibility quiz built as a practice project for freeCodeCamp. It tests your knowledge of HTML and CSS accessibility concepts. The quiz consists of multiple-choice questions and a form to collect student information.
 
+## Preview
+
+![Preview](quiz.png)
 # Table of Contents
 
 Getting Started
