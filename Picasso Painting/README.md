@@ -20,7 +20,9 @@ Feel free to experiment and make changes to create your own unique Picasso paint
 
 ## Built With
 HTML
+
 CSS
+
 FontAwesome (for icons)
 
 ## Authors
