@@ -2,6 +2,9 @@
 
 This is a simple piano interface created using HTML and CSS.
 
+## Preview
+
+![preview](Piano.png)
 ## Getting Started
 
 To use the piano interface, follow these steps:
