@@ -1,4 +1,4 @@
-# City Skyline Preview
+# City Skyline 
 
 This repository contains HTML and CSS code that creates a simple city skyline with buildings and windows. The code is structured using HTML tags and CSS styles to define the appearance of the skyline elements.
 
