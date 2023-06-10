@@ -24,7 +24,7 @@ The city skyline code is compatible with modern web browsers that support HTML5 
 
 ## Credits
 
-The city skyline code was created by [PhilomenaMusili]. It is provided under the [MIT License](LICENSE).
+The city skyline code was created by PhilomenaMusili. It is provided under the [MIT License](LICENSE).
 
 
 Enjoy creating your own city skyline!
