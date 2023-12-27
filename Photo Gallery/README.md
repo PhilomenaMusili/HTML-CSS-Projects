@@ -2,6 +2,7 @@
 
 This is a simple photo gallery created using CSS Flexbox. It showcases a collection of cute cat photos.
 
+
 ## Preview
 
 ![Preview](catphotos.png)
