@@ -5,6 +5,7 @@ This project is an accessibility quiz built as a practice project for freeCodeCa
 ## Preview
 
 ![Preview](quiz.png)
+
 # Table of Contents
 
 Getting Started
@@ -16,9 +17,10 @@ License
 
 ## Getting Started
 
-To get started with the Accessibility Quiz, follow these steps:
+To get started with the Accessibility Quiz, follow the steps below:
 
 Clone the repository: git clone https://github.com/your-username/accessibility-quiz.git
+
 Open the index.html file in a web browser.
 
 # Features
@@ -42,7 +44,7 @@ Click the "Send" button to submit the quiz.
 
 ## Contributing
 
-Contributions are welcome! If you have any suggestions or improvements for the Accessibility Quiz, please open an issue or submit a pull request. Your feedback is highly appreciated.
+Contributions are welcome! If you have any suggestions or improvements for the Accessibility Quiz, please open an issue or submit a pull request. Your feedback is highly appreciated.Fell free to share.
 
 ## License
 
