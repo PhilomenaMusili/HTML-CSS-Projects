@@ -4,7 +4,7 @@ This repository contains CSS styles for creating a visual representation of artw
 
 ## Usage
 
-Include the `styles.css` file in your HTML document:
+Domt forget to include the `styles.css` file in your HTML document:
 
    ```html
    <link href="./styles.css" rel="stylesheet">
