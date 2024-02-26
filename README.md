@@ -18,7 +18,7 @@ To explore or run the projects locally, clone the repository to your local machi
 
 ## Contributions
 
-Contributions and feedback on the projects are welcome. If you have any suggestions or would like to contribute, please follow the provided guidelines for making changes and submitting pull requests.
+Contributions and feedback on the projects are welcome. If you have any suggestions or would like to contribute, please follow the provided guidelines for making changes and submitting pull request, thank you 
 
 ## License
 
