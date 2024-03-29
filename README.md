@@ -26,6 +26,6 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Contact
 
-For any inquiries or collaboration opportunities, feel free to reach out to me via email or connect with me on social media under my profile. I look forward to hearing from you!
+For any inquiries or collaboration opportunities, feel free to reach out to me via email or connect with me on social media under my profile. I look forward to hearing from you!Thank you
 
 
