@@ -22,7 +22,7 @@ Contributions and feedback on the projects are welcome. If you have any suggesti
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You can find the full license text in the repository.
+This project is licensed under the [MIT License]
 
 ## Contact
 
